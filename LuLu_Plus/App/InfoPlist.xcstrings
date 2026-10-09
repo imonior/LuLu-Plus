@@ -1,0 +1,340 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus"
+          }
+        }
+      }
+    },
+    "NSHumanReadableCopyright" : {
+      "comment" : "Copyright (human-readable)",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. Alle Rechte vorbehalten.\nLuLu_Plus ist ein geänderter Fork von imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Copyright (c) 2020 Objective-See. All rights reserved.\nLuLu_Plus is a modified fork by imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. Todos los derechos reservados.\nLuLu_Plus es un fork modificado de imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. Tous droits réservés.\nLuLu_Plus est un fork modifié par imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. Tutti i diritti riservati.\nLuLu_Plus è un fork modificato di imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. 모든 권리 보유.\nLuLu_Plus는 imonior가 2026년에 수정한 포크입니다 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. Wszelkie prawa zastrzeżone.\nLuLu_Plus to zmodyfikowany fork autorstwa imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. Todos os direitos reservados.\nLuLu_Plus é um fork modificado de imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Telif hakkı © 2020 Objective-See. Tüm hakları saklıdır.\nLuLu_Plus, imonior tarafından 2026'da değiştirilmiş bir çatallamadır (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Copyright (c) 2020 Objective-See. Усі права захищені.\nLuLu_Plus — змінений форк від imonior, 2026 (github.com/imonior/LuLu-Plus)."
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "کاپی رائٹ (c) 2020 Objective-See۔ تمام حقوق محفوظ ہیں۔\nLuLu_Plus، imonior کا 2026 میں ترمیم شدہ فورک ہے (github.com/imonior/LuLu-Plus)۔"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版权所有 (c) 2020 Objective-See. 保留一切权利。\nLuLu_Plus 是 imonior 于 2026 年发布的修改版 fork（github.com/imonior/LuLu-Plus）。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "版權所有 (c) 2020 Objective-See. 保留一切權利。\nLuLu_Plus 是 imonior 於 2026 年發佈的修改版 fork（github.com/imonior/LuLu-Plus）。"
+          }
+        }
+      }
+    },
+    "NSLocationUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus liest den Namen dieses WLAN-Netzes (SSID), damit seine Netzwerkprofile in verschiedenen Netzen unterschiedliche Regeln anwenden können. Der Name wird nur an LuLu_Plus eigenen Inhaltsfilter übergeben."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "LuLu_Plus reads this Wi-Fi network's name (SSID) so its network profiles can apply different rules on different networks. The name is only passed to LuLu_Plus's own content filter."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus lee el nombre de esta red Wi-Fi (SSID) para que sus perfiles de red puedan aplicar reglas distintas en redes distintas. El nombre solo se pasa al filtro de contenido de LuLu_Plus."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus lit le nom de ce réseau Wi-Fi (SSID) afin que ses profils réseau puissent appliquer des règles différentes selon le réseau. Ce nom n'est transmis qu'au filtre de contenu de LuLu_Plus."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus legge il nome di questa rete Wi-Fi (SSID) in modo che i suoi profili rete possano applicare regole diverse su reti diverse. Il nome viene trasmesso solo al filtro contenuti di LuLu_Plus."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus는 이 Wi-Fi 네트워크의 이름(SSID)을 읽어 네트워크 프로필에서 네트워크마다 다른 규칙을 적용할 수 있도록 합니다. 이 이름은 LuLu_Plus의 콘텐츠 필터에만 전달됩니다."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus odczytuje nazwę tej sieci Wi-Fi (SSID), aby profile sieci mogły stosować różne reguły w różnych sieciach. Nazwa jest przekazywana wyłącznie do filtra treści LuLu_Plus."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O LuLu_Plus lê o nome desta rede Wi-Fi (SSID) para que seus perfis de rede possam aplicar regras diferentes em redes diferentes. O nome é enviado apenas ao filtro de conteúdo do LuLu_Plus."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus, ağ profillerinin farklı ağlarda farklı kurallar uygulayabilmesi için bu Wi-Fi ağının adını (SSID) okur. Ad yalnızca LuLu_Plus'nun içerik filtresine aktarılır."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus читає назву цієї Wi-Fi мережі (SSID), щоб її мережеві профілі могли застосовувати різні правила в різних мережах. Назва передається лише фільтру вмісту LuLu_Plus."
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus اس Wi-Fi نیٹ ورک کا نام (SSID) پڑھتا ہے تاکہ اس کے نیٹ ورک پروفائل مختلف نیٹ ورکوں پر مختلف قواعد لاگو کر سکیں۔ یہ نام صرف LuLu_Plus کے اپنے مواد فلٹر کو بھیجا جاتا ہے۔"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus 会读取当前 Wi-Fi 网络的名称（SSID），以便它的网络配置文件在不同网络上应用不同规则。该名称只会传给 LuLu_Plus 自己的内容过滤器。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus 會讀取目前 Wi-Fi 網路的名稱（SSID），以便它的網路設定檔在不同網路套用不同規則。該名稱只會傳給 LuLu_Plus 自己的內容過濾器。"
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus liest den Namen dieses WLAN-Netzes (SSID), damit seine Netzwerkprofile in verschiedenen Netzen unterschiedliche Regeln anwenden können. Der Name wird nur an LuLu_Plus eigenen Inhaltsfilter übergeben."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "LuLu_Plus reads this Wi-Fi network's name (SSID) so its network profiles can apply different rules on different networks. The name is only passed to LuLu_Plus's own content filter."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus lee el nombre de esta red Wi-Fi (SSID) para que sus perfiles de red puedan aplicar reglas distintas en redes distintas. El nombre solo se pasa al filtro de contenido de LuLu_Plus."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus lit le nom de ce réseau Wi-Fi (SSID) afin que ses profils réseau puissent appliquer des règles différentes selon le réseau. Ce nom n'est transmis qu'au filtre de contenu de LuLu_Plus."
+          }
+        },
+        "it" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus legge il nome di questa rete Wi-Fi (SSID) in modo che i suoi profili rete possano applicare regole diverse su reti diverse. Il nome viene trasmesso solo al filtro contenuti di LuLu_Plus."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus는 이 Wi-Fi 네트워크의 이름(SSID)을 읽어 네트워크 프로필에서 네트워크마다 다른 규칙을 적용할 수 있도록 합니다. 이 이름은 LuLu_Plus의 콘텐츠 필터에만 전달됩니다."
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus odczytuje nazwę tej sieci Wi-Fi (SSID), aby profile sieci mogły stosować różne reguły w różnych sieciach. Nazwa jest przekazywana wyłącznie do filtra treści LuLu_Plus."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O LuLu_Plus lê o nome desta rede Wi-Fi (SSID) para que seus perfis de rede possam aplicar regras diferentes em redes diferentes. O nome é enviado apenas ao filtro de conteúdo do LuLu_Plus."
+          }
+        },
+        "tr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus, ağ profillerinin farklı ağlarda farklı kurallar uygulayabilmesi için bu Wi-Fi ağının adını (SSID) okur. Ad yalnızca LuLu_Plus'nun içerik filtresine aktarılır."
+          }
+        },
+        "uk" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus читає назву цієї Wi-Fi мережі (SSID), щоб її мережеві профілі могли застосовувати різні правила в різних мережах. Назва передається лише фільтру вмісту LuLu_Plus."
+          }
+        },
+        "ur" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus اس Wi-Fi نیٹ ورک کا نام (SSID) پڑھتا ہے تاکہ اس کے نیٹ ورک پروفائل مختلف نیٹ ورکوں پر مختلف قواعد لاگو کر سکیں۔ یہ نام صرف LuLu_Plus کے اپنے مواد فلٹر کو بھیجا جاتا ہے۔"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus 会读取当前 Wi-Fi 网络的名称（SSID），以便它的网络配置文件在不同网络上应用不同规则。该名称只会传给 LuLu_Plus 自己的内容过滤器。"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "LuLu_Plus 會讀取目前 Wi-Fi 網路的名稱（SSID），以便它的網路設定檔在不同網路套用不同規則。該名稱只會傳給 LuLu_Plus 自己的內容過濾器。"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
